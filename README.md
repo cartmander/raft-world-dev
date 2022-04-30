@@ -9,7 +9,7 @@ A repository to Kru Kru RAFT© World
 1. Message me on discord if you would like to become a **contributor**.
 2. If you're already a contributor, clone the repository to your local by entering this command: 
 ```
-git clone https://github.com/kelvinlegolas3/kru-kru-raft.git.
+git clone https://github.com/kelvinlegolas3/kru-kru-raft.git
 ```
 3. Get the latest changes by entering this command: 
 ```
