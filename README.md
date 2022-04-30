@@ -1,12 +1,12 @@
 # RAFT Kru Kru World Development
-A repository to Kru Kru RAFT© World 
+A repository to Kru Kru RAFT© World
 
 ## Objectives
 - To allow contributors to "host" the latest changes of the **Kru Kru** world. 
 - Instead of having to wait for the main creator to launch the world, you can just get the latest save files of this repository and paste in your "World" folder. With that, you can launch RAFT© and host the Kru Kru world on your own.
 
 ## How?
-1. Message me on discord if you would like to become a **contributor**.
+1. Message me on discord if you would like to become a **contributor**. Discord: Cartman#0003
 2. If you're already a contributor, clone the repository to your local by entering this command: 
 ```
 git clone https://github.com/kelvinlegolas3/kru-kru-raft.git
