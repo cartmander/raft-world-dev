@@ -2,7 +2,7 @@
 
 
 ## Objectives
-- To allow contributors to "host" the latest changes of a Raft world. 
+- To allow contributors to host the latest changes of a Raft world. 
 - Instead of waiting for the original creator to launch the world, you can just get the latest saved files of a world from this repository and paste in your local World directory.
 - Doing that will allow any contributors to fetch the latest changes of a World and host it on their own.
 
