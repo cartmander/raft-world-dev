@@ -16,6 +16,9 @@ git clone https://github.com/kelvinlegolas3/kru-kru-raft.git
 git pull
 ```
 
+## Repository Structure
+- Each folder in the root directory of this repository is a World in Raft.
+
 ## Pulling the latest changes from this repository to your Raft World
 - To know your local World directory, launch the game and then click **Load World**. Finally, click **Open World Folder Path**. 
 - Go back to the repository, then find the folder name of the world you want to pull from.
