@@ -1,4 +1,4 @@
-# RAFT Kru Kru World Development
+# Raft Kru Kru World Development
 
 
 ## Objectives
@@ -19,11 +19,17 @@ git pull
 ## Repository Structure
 - Each folder in the root directory of this repository is a World in Raft.
 
-## Pulling the latest changes from this repository to your Raft World
-- To know your local World directory, launch the game and then click **Load World**. Finally, click **Open World Folder Path**. 
+## Pulling the latest changes of a World from this repository to your Raft World
+**If you already have the World in your local**
+- To know your local World directory, launch the game and then click **Load World**.
+- Click **Open World Folder Path**. 
 - Go back to the repository, then find the folder name of the world you want to pull from.
 - Copy and paste the World folder directory from this repository and replace what's in your local World directory.
 - Launch the game and you should be able to see the latest version of the World.
+
+**If you don't have the World in your local yet**
+- Copy and paste the World folder directory from this repository to your local World directory.
+- Launch the game and you should be able to import the World.
 
 ## Pushing the latest changes from this repository to your Raft World
 - After making progress to your World, make sure to push your changes to this repository.
