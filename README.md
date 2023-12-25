@@ -31,7 +31,7 @@ git pull
 - Copy and paste the World folder directory from this repository to your local World directory.
 - Launch the game and you should be able to import the World.
 
-## Pushing the latest changes from this repository to your Raft World
+## Pushing the latest changes from your Raft World to this repository
 - After making progress to your World, make sure to push your changes to this repository.
 - Go to your local World directory.
 - Copy and paste the World folder directory from your local World directory and replace what's in your Git repository.
