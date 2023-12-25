@@ -19,7 +19,7 @@ git pull
 ## Repository Structure
 - Each folder in the root directory of this repository is a World in Raft.
 
-## Pulling the latest changes of a World from this repository to your Raft World
+## Pulling the latest changes from this repository to your Raft World
 **If you already have the World in your local**
 - To know your local World directory, launch the game and then click **Load World**.
 - Click **Open World Folder Path**. 
@@ -28,7 +28,7 @@ git pull
 - Launch the game and you should be able to see the latest version of the World.
 
 **If you don't have the World in your local yet**
-- Copy and paste the World folder directory from this repository to your local World directory.
+- Copy and paste a World folder directory from this repository to your local World directory.
 - Launch the game and you should be able to import the World.
 
 ## Pushing the latest changes from your Raft World to this repository
